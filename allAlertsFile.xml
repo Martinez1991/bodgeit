@@ -6,5 +6,5 @@
 	<ignoreAlert alert="X-Frame-Options header not set" risk="Informational" reliability="Warning"/> 
 	<ignoreAlert alert="Password Autocomplete in browser" risk="Low" reliability="Warning"/> 
 	<ignoreAlert alert="Cross Site Scripting (Reflected)" risk="High" reliability="Warning"/> 
-	<ignoreAlert alert="SQL Injection" risk="High" reliability="Warning"/> 
+	<ignoreAlert alert="SQL Injection" risk="High" reliability="Warning"/> </>
 </alerts>
