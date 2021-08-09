@@ -92,5 +92,5 @@
 	    	<ignoreAlert alert="X-Frame-Options header not set" risk="Informational" reliability="Warning"/> 
 	    </alertCheckTask>
 	</target>
-	
+	</>
 </project>
