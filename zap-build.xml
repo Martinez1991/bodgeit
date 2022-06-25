@@ -1,7 +1,7 @@
 <project basedir=".">
 
 	<!-- This file contains all of the environment specific configuration, change it for your setup -->
-    <property file="local.properties"/>
+    <property file="local.properties "/>
 
 	<!--
 	In Eclipse you can get these taskdefs to work by:
