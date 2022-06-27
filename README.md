@@ -11,7 +11,7 @@ Some of its features and characteristics:
 * Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required
 * Cross platform
 * Open source
-* No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
+* No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start upp
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
 
